@@ -18,16 +18,8 @@ Error handling – detects invalid inputs or failed API requests gracefully.
 
 Frontend: HTML, CSS, JavaScript
 
-API: ExchangeRate API (or your chosen API)
+API: ExchangeRate API 
 
-Deployment: GitHub Pages (or your preferred platform)
-
-Project Structure
-currency-converter/
-├── index.html        # Main page of the application
-├── style.css         # Styling for layout and responsiveness
-├── script.js         # Logic for currency fetching and conversion
-└── README.md         # Project documentation
 
 **How It Works**
 
@@ -43,7 +35,7 @@ The converted amount is displayed instantly.
 
 Clone the repository:
 
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/lone-ndegwa/Currency-Converter
 
 
 Navigate to the project folder:
@@ -51,4 +43,4 @@ Navigate to the project folder:
 cd currency-converter
 
 
-Open index.html in your browser.
+run the command 'npm start'
